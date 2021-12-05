@@ -1,11 +1,11 @@
 {
-    "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
-    "logo": "https://i.imgur.com/W0i7oMY.jpeg",
+    "name": "Minnal",
+    "description": "Minnal - Whatsapp Bot",
+    "logo": "https://www.linkpicture.com/q/PicsArt_12-01-09.26.44_6.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/Rishadcp21/minnalv4",
+    "website":   "https://t.me/Legend_god001",
+    "success_url": "https://t.me/Legend_god001",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
